@@ -1,3 +1,3 @@
 # activites
 Bonjour!!
-Ce-ci un test d'activite d'utilisation dde git et github sur OpenClassrooms
+Ce-ci un test d'activite d'utilisation de Git et Github sur OpenClassrooms
